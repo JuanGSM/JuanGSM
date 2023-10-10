@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando como OP. de supermercado
-- 🌱 Atualmente estudando javascript
+- 🌱 estudando javascript
 - 📫 Voce pode me achar em: Juangustavo748@gmail.com ou www.linkedin.com/in/juan-gsantos
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGSM&show_icons=true&theme=radical)
