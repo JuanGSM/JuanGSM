@@ -1,7 +1,7 @@
 ### Ola eu sou Juan gustavo👋
 
 
-- 🔭 Atualmente trabalhando como OP. de supermercado
+
 - 🌱 estudando javascript
 - 📫 Voce pode me achar em: Juangustavo748@gmail.com ou www.linkedin.com/in/juan-gsantos
 
